@@ -1,6 +1,6 @@
 
 # profile picture
-profile_picture = "Images/amy_profile.jpg"
+profile_picture = "amy_profile.jpg"
 about_me = "My name is Amy Ho. I'm a 2nd year LMC major at Georgia Tech with threads in Media and Design. I'm passionate about creative storytelling, user experience design, and the intersection of technology and media."
 
 # Social Media Links 
