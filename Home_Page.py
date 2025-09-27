@@ -39,10 +39,4 @@ Welcome to my Streamlit Web Development Lab01 app! You can navigate between the 
 """)
 
 st.divider()
-st.write("### About This Lab")
-st.write("""
-This application was created as part of CS 1301 - Intro to Computing to demonstrate 
-web development skills using Streamlit. The lab focuses on creating multi-page applications 
-and interactive web elements using Python.
-""")
 st.info("💡 **Tip**: Use the sidebar on the left to navigate between pages!")
