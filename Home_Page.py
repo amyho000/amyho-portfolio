@@ -2,7 +2,7 @@ import streamlit as st
 st.set_page_config(
     page_title="Amy Ho - CS 1301",
     page_icon="🌟",
-    layout="wide"
+    layout="wide")
 
 # Title of App
 st.title("Web Development Lab01")
